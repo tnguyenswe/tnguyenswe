@@ -6,4 +6,4 @@
 # Status
 **🤔 Learning:** Flask, Data Structures & Algorithms
 
-**🛠️ Building:** Front end projects as a Software Engineer @ [Backblaze](https://www.backblaze.com)
+**🛠️ Building:** Undisclosed front end projects at a Pre-IPO company
