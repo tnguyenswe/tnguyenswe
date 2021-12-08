@@ -6,4 +6,4 @@
 # Status
 **🤔 Learning:** Flask, Data Structures & Algorithms
 
-**🛠️ Building:** Undisclosed front end projects at a Pre-IPO company
+**🛠️ Building:** Undisclosed front end projects at a recently IPO'd company
